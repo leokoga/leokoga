@@ -2,7 +2,6 @@
 
 Sou o Leo, publicitário de formação e desenvolvedor por opção. Antes tarde do que nunca. Acredito no uso da tecnologia como ferramenta de inclusão, e resolvi fazer essa transição por acreditar que através da tecnologia posso desenvolver meu potencial.
 
-Estudando 💻
 
 - Front-End
 
